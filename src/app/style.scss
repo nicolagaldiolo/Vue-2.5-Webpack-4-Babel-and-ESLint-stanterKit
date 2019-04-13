@@ -1,0 +1,14 @@
+@import '~bootstrap/scss/bootstrap';
+
+$border-color: #e0e0e0;
+$bg_color: #000;
+
+body{
+    .some-globally-inherited-style
+    {
+        border: 1px solid $blue;
+        margin: 0 auto;
+        padding: 25px;
+    }
+}
+
