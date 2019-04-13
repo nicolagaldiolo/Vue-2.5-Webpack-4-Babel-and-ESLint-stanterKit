@@ -2,6 +2,7 @@
 Integrating Vue 2.5, Webpack 4, Babel, and ESLint into an existing website
 
 ```
+$ cd src
 $ npm install // Will install all the things
 $ npm run dev // Run webpack in develop mode
 $ npm run build // Run webpack in production mode
